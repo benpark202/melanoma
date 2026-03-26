@@ -19,25 +19,25 @@
   const riskSliderTargetProgress = 0.82;
   const mitigationItems = [
     [
-      "/assets/cancer-project/sunscreenBottle.png",
+      "./assets/cancer-project/sunscreenBottle.png",
       'Wear sunscreen with at least <span class="mitigation-emphasis">SPF 30+</span>',
       "Wear sunscreen with at least SPF 30+",
       "cover",
     ],
     [
-      "/assets/cancer-project/office.png",
+      "./assets/cancer-project/office.png",
       'Visit a <span class="mitigation-emphasis">Dermatologist</span> for monthly skin checkups',
       "Visit a Dermatologist for monthly skin checkups",
       "cover",
     ],
     [
-      "/assets/cancer-project/tanningBed.png",
+      "./assets/cancer-project/tanningBed.png",
       '<span class="mitigation-emphasis">Avoid</span> tanning beds or sitting under the sun for too long',
       "Avoid tanning beds or sitting under the sun for too long",
       "cover",
     ],
     [
-      "/assets/cancer-project/sunglasses.png",
+      "./assets/cancer-project/sunglasses.png",
       'Wear <span class="mitigation-emphasis">sunglasses</span> and protective clothing',
       "Wear sunglasses and protective clothing",
       "contain",
