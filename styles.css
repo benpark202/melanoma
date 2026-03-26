@@ -32,7 +32,8 @@ body {
   place-items: center;
   padding: var(--pad);
   color: var(--text);
-  font-family: -apple-system, BlinkMacSystemFont;
+  font-family: "SF Pro Display", "SF Pro Text", -apple-system, BlinkMacSystemFont,
+    "Google Sans", "Segoe UI", sans-serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
